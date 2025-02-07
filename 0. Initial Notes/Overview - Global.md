@@ -1,4 +1,4 @@
-
+	
 Un bot de trading generalmente consta de los siguientes módulos:
 
 ### **a) Adquisición de Datos**
