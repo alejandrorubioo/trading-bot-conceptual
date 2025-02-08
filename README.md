@@ -6,9 +6,5 @@
 	[Overview - Forex](obsidian://open?vault=trading-bot-conceptual&file=0.%20Initial%20Notes%2FOverview%20-%20Global)
 	[Overview - Global](obsidian://open?vault=trading-bot-conceptual&file=0.%20Initial%20Notes%2FOverview%20-%20Global)
 
-<<<<<<< Updated upstream
 2. 
-=======
-3...
-ed
->>>>>>> Stashed changes
+
